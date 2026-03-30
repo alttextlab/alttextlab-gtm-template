@@ -1,0 +1,5 @@
+homepage: "https://www.alttextlab.com/"
+documentation: "https://www.alttextlab.com/docs/web-snippet"
+versions:
+  - sha: empty
+    changeNotes: Initial release v1.0.0
